@@ -2,7 +2,7 @@ body {
   background-color: powderblue;
 }
 h1 {
- color: rgb(9, 145, 72);
+ color: #7b9e73;
 }
 p {
   color: red;
